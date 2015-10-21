@@ -23,11 +23,11 @@ public class HelloWorld
 }
 ```
 
-Para compilar, use mcs:
+Para compilar, use o mcs:
 
     mcs hello.cs
 
-O compilador irá criar "hello.exe",no qual você pode rodar usando:
+O compilador irá criar "hello.exe", no qual você pode rodar usando:
 
     mono hello.exe
 
@@ -76,11 +76,11 @@ Para compilar, use o mcs com a opção -pkg para informar ao compilador para inv
 
     mcs hello.cs -pkg:dotnet
 
-O compilador irá criar "hello.exe",no qual você pode rodar usando:
+O compilador irá criar "hello.exe", no qual você pode rodar usando:
 
     mono hello.exe
 
-NOTA: No MAC OS X você terá que esperar torno de um minuto na primeira vez em que você executar este comando
+NOTA: No MAC OS X você terá que esperar torno de um minuto na primeira vez em que você executar este comando.
 
 ASP.Net Hello World
 -------------------
@@ -132,6 +132,6 @@ Para compilar, use mcs com a opção -pkg para informar ao compilador para invoc
 
     mcs hello.cs -pkg:gtk-sharp-2.0
 
-O compilador irá criar "hello.exe",no qual você pode rodar usando:
+O compilador irá criar "hello.exe", no qual você pode rodar usando:
 
     mono hello.exe
