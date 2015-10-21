@@ -13,7 +13,7 @@ MonoDevelop
 
 [MonoDevelop](http://www.monodevelop.com) é um Ambiente de Desenvolvimento Integrado Mono/C# para Windows, Linux e OS X. Ele analisa seus códigos em C# e VB conforme você digita, e vai fornecendo a conclusão contextual dos métodos.
 
-No final de 2003, alguns desenvolvedores da comunidade Mono começaram a migração SharpDevelop, foi bem sucedida a IDE open source .NET do System.Windows.Forms no Windows para Gtk# no Linux. Uma versão nomeada [Xamarin Studio](http://xamarin.com/studio) é vendida pelo patrocinador comercial por trás do projeto com propriedade addins do iOS/Android.
+No final de 2003, alguns desenvolvedores da comunidade Mono começaram a migração SharpDevelop, foi bem sucedida a IDE de código aberto .NET do System.Windows.Forms no Windows para Gtk# no Linux. Uma versão nomeada [Xamarin Studio](http://xamarin.com/studio) é vendida pelo patrocinador comercial por trás do projeto com propriedade addins do iOS/Android.
 
 Ferramentas Unix
 ----------
