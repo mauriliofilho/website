@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 {% capture compileNote %}
-Este documento descreve como compilar e instalar o Mono a partir do seu codigo fonte. Se voce esta interessado em apenas rodar o Mono, voce treá que instalar o Mono pelos pacotes, no qual foram testados. Verifique os pacotes em  [download page](/download/).
+Este documento descreve como compilar e instalar o Mono a partir do seu codigo fonte. Se voce esta interessado em apenas rodar o Mono, voce terá que instalar o Mono pelos pacotes, no quais foram testados. Verifique os pacotes em  [download page](/download/).
 {% endcapture %}
 {% include note.html type='info' message=compileNote %}
 
