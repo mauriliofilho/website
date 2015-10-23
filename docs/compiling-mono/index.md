@@ -10,7 +10,7 @@ Este documento descreve como compilar e instalar o Mono a partir do seu codigo f
 {% endcapture %}
 {% include note.html type='info' message=compileNote %}
 
-De uma olhada nas guias para compilar o Mono em diferentes plataformas:
+De uma olhada nos guias para compilar o Mono em diferentes plataformas:
 
 - [Compilando Mono no Mac OS X](/docs/compiling-mono/mac/)
 - [Compilando Mono no Linux](/docs/compiling-mono/linux/)
